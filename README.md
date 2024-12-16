@@ -1,13 +1,13 @@
 # Proyecto-final-de-Python
 Proyecto final de python.
-Curso de Python
-Comisión Nº 60095-python
-Prof. Esteban Acevedo
+Curso de Python.
+Comisión Nº 60095-python.
+Prof. Esteban Acevedo.
 
 # Alumno. Seongju
 
 # Objetivos del proyecto
-Proyecto final de Python
+Proyecto final de Python.
 
 Basicamente, es un proyecto final que estuve trabajando durante toda la clase de coder house.
 Sin embargo, he tomado tutorias externas de otros trabajos como una guia para realizar una pagina e-comercial
